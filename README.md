@@ -1,2 +1,2 @@
-# MAD
+# Mobile Android Application
 Final
